@@ -11,6 +11,7 @@ from full-stack web applications to digital hardware and processor design.
 ### Languages
 
 [![Languages](https://skillicons.dev/icons?i=python,java,php,cpp,c,js,html,css,mysql)](https://skillicons.dev)
+![Verilog](https://img.shields.io/badge/Verilog-HDL-blue)
 
 ### Frameworks & Libraries
 
